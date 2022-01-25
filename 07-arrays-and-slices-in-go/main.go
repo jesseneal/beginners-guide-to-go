@@ -10,8 +10,8 @@ func main() {
 
 	var planetsArray [8]string
 	planetsArray[0] = "mercury"
-
 	fmt.Println(planetsArray)
+
 	planetSlice := []string{"mercury", "venus", "earth", "mars", "jupiter", "saturn", "uranus", "neptune"}
 	fmt.Println(planetSlice)
 
